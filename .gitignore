@@ -1,0 +1,4 @@
+# Confidential information
+.env
+# Vagrant temp files
+.vagrant
